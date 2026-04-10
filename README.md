@@ -4,7 +4,8 @@ An advanced, fully automated WhatsApp Business Assistant that handles customer q
 
 ## 📊 Workflow Overview
 *Visual representation of the n8n automation flow.*
-<img width="1366" height="768" alt="Screenshot (1401)" src="https://github.com/user-attachments/assets/de64660a-472c-4eed-8202-14ce55831de6" />
+<img width="1366" height="539" alt="Screenshot (1401)" src="https://github.com/user-attachments/assets/631e09a5-2b70-4ee6-a88a-ea53e3ff2bcd" />
+
 
 
 ## ✨ Key Features
