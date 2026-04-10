@@ -3,8 +3,9 @@
 An advanced, fully automated WhatsApp Business Assistant that handles customer queries 24/7. Built using the power of **n8n**, **OpenAI**, and **Whapi.cloud**.
 
 ## 📊 Workflow Overview
-![Full Workflow](./images/workflow.png)
 *Visual representation of the n8n automation flow.*
+<img width="1366" height="768" alt="Screenshot (1401)" src="https://github.com/user-attachments/assets/de64660a-472c-4eed-8202-14ce55831de6" />
+
 
 ## ✨ Key Features
 - **💬 Intelligent Text Chat:** Powered by GPT-4o.
@@ -34,4 +35,4 @@ An advanced, fully automated WhatsApp Business Assistant that handles customer q
 4. Execute and test!
 
 ---
-Built with ❤️ by [Your Name]
+
